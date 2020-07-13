@@ -1,4 +1,14 @@
-### Hi there 👋
+### HOOP! 🤘🏾
+
+My name is Edilson Pacheco. Currently i'm living in São Paulo, Brazil and working with front-end development. Since i've been learned to write my first functional line of code, i turn myself a lover of technologies and all ecosystem wrapped around them.
+I like to play drums and guitar, it's a nice therapy! 🎸🥁
+My heros is Jesus, my father, Spider-Man (Peter Parker) and Jimi Hendrix, that's all! ✌🏾 🙌🏾
+
+## Social Networks
+[![Linkedin badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edilson-pacheco-91231a15b/)]
+(https://www.linkedin.com/in/edilson-pacheco-91231a15b/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/diipacheco__)]
+(https://twitter.com/diipacheco__)
 
 <!--
 **diipacheco/diipacheco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
