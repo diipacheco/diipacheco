@@ -4,7 +4,7 @@ My name is Edilson Pacheco. Currently i'm living in São Paulo, Brazil and worki
 
 I like to play drums and guitar, it's a nice therapy! 🎸🥁
 
-My heros is Jesus, my father, Spider-Man (Peter Parker) and Jimi Hendrix, that's all! ✌🏾 🙌🏾
+My heros is Jesus, my father, Spider-Man/Peter Parker and Jimi Hendrix, that's all! ✌🏾 🙌🏾
 
 #### Social Networks
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edilson-pacheco-91231a15b/)](https://www.linkedin.com/in/edilson-pacheco-91231a15b/)
